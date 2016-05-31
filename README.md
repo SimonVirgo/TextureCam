@@ -17,3 +17,7 @@ steps:
 6 visualize , segment, be happy
 
 ideally the software performs in real time with a live image stream from a camera and displays a stereonet to indicate what orientations are already covered!
+
+keywords:
+fast array manipulation, avoid loops in python,
+ArUco Markers
